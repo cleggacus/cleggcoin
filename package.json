@@ -1,0 +1,22 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "yarn run ts-node src/index.ts",
+    "generateKey": "yarn run ts-node src/keygen.ts",
+    "build": "tsc -p ."
+  },
+  "dependencies": {
+    "@types/elliptic": "^6.4.10",
+    "@types/typescript": "^2.0.0",
+    "crypto": "^1.0.1",
+    "elliptic": "^6.5.2",
+    "ts-node": "^8.5.3",
+    "typescript": "^3.7.2"
+  },
+  "devDependencies": {
+    "@types/node": "^12.12.14"
+  }
+}
