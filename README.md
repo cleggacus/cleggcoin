@@ -4,8 +4,6 @@
 
 ## Build And Run
 
-Uses **typescript** and **rollup** to bundle.
-
 Install Dependencies
 
 ```bash
