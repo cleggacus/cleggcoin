@@ -1,10 +1,10 @@
 # CleggCoin
 
-> A very simplified example of a proof of work algoithm
-
-Uses **typescript** and **rollup** to bundle.
+> A very simplified example of a proof of work algorithm
 
 ## Build And Run
+
+Uses **typescript** and **rollup** to bundle.
 
 Install Dependencies
 
