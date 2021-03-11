@@ -12,7 +12,7 @@
     "@types/elliptic": "^6.4.10",
     "@types/typescript": "^2.0.0",
     "crypto": "^1.0.1",
-    "elliptic": "^6.5.2",
+    "elliptic": "^6.5.4",
     "ts-node": "^8.5.3",
     "typescript": "^3.7.2"
   },
